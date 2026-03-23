@@ -1,4 +1,4 @@
-# 🚀 Frontend Projects (Vanilla JavaScript)
+# 🚀 Frontend Projects (vanilla-js-labs)
 
 [![GitHub Stars](https://img.shields.io/github/stars/abdulmanan-js-dev/Frontend-Projects?style=flat&color=yellow)](https://github.com/abdulmanan-js-dev/Frontend-Projects)
 [![GitHub Forks](https://img.shields.io/github/forks/abdulmanan-js-dev/Frontend-Projects?style=flat&color=blue)](https://github.com/abdulmanan-js-dev/Frontend-Projects/fork)
